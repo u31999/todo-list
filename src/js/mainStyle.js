@@ -32,7 +32,7 @@ const homePageStyle = () => {
         logoDiv.style.display = 'flex';
         logoDiv.style.alignItems = 'center';
 
-        logoImg.src = '../src/resources/logo.png';
+        logoImg.src = './src/resources/logo.png';
         logoImg.style.width = '135px';
         logoImg.style.height = '120px';
 
